@@ -26,7 +26,6 @@ To view the website locally:
    https://github.com/PravallikaSurabathula2006/biryani-spot-html-site.git
 # Biryani Spot 🍛
 
-Open `index.html` in any web browser.
 2. Open index.html in any web browser.
 ## 📁 Files Included
 
@@ -36,14 +35,11 @@ Open `index.html` in any web browser.
 - `biryani_logo.png`, `biryani_1.jpg`, `biryani_3.jpg` – Image assets
 
 > No CSS or JavaScript is used in this version. Styling and interactivity may be added in future updates.
-> No CSS or JavaScript is used in this version. Styling and interactivity may be added in future updates.
 
-## 📸 Preview
-*(optional)*
 
 ## 🧑‍💻 Author
 Pravallika Surabathula
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-✅ Let me know if you'd like:
+This project is licensed under the [MIT License]
+(LICENSE).
