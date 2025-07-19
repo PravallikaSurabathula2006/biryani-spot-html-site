@@ -23,7 +23,7 @@ To view the website locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/biryani-spot.git
+   https://github.com/PravallikaSurabathula2006/biryani-spot-html-site.git
 # Biryani Spot 🍛
 
 Open `index.html` in any web browser.
